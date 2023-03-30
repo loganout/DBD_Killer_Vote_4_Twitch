@@ -7,6 +7,8 @@
   <img alt="DBDKV" src="https://i.ibb.co/kgLLYbv/Screenshot-1.png">
 </picture>
 
+## [Download](https://github.com/loganout/DBD_Killer_Vote_4_Twitch/archive/refs/heads/main.zip)
+
 ## How to log in
 * Create an account for your Bot if you don't already have one;
 * Add your Bot account username (Ex: adenabot);
