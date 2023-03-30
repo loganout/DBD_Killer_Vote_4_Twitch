@@ -30,7 +30,7 @@ Participants in your chat will be able to vote by entering the **number** for ea
 Each participant is only able to vote once, until the time of development.
 
 ## Development
-Goal is to develop a Bot with minigames and a lot to make the chat more interactive. I count on suggestions and incentives.
+Goal is to develop a Bot with minigames and a lot to make the chat more interactive. Suggestions and Incentives are very welcome!
 
 - [ ] Translation
 - [ ] Multiple votes
