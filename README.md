@@ -25,7 +25,13 @@ Participants in your chat will be able to vote by entering the **number** for ea
 
 Each participant is only able to vote once, until the time of development.
 
+## Development
+Goal is to develop a Bot with minigames and a lot to make the chat more interactive. I count on suggestions and incentives.
 
+- [ ] Multiple votes
+- [ ] Giveaway
+- [ ] Racing game
+- [ ] Suggestions
 
 
 :coffee: [Me pague um café! :heartpulse:](https://www.paypal.com/donate/?hosted_button_id=522YQG8LS9WBY)
