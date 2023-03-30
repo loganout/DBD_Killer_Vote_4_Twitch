@@ -1,4 +1,6 @@
-# DBD Killer Vote 4 Twitch
+# ![Brazil](https://user-images.githubusercontent.com/4658212/228728488-d20fa9a9-781e-45a8-b597-057211a485b0.png) DBD Killer Vote 4 Twitch ![twitch-16x16](https://user-images.githubusercontent.com/4658212/228728221-e39a28b0-4199-41a3-b433-0c4b09ad6aee.png)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/kgLLYbv/Screenshot-1.png">
   <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/kgLLYbv/Screenshot-1.png">
@@ -28,10 +30,10 @@ Each participant is only able to vote once, until the time of development.
 ## Development
 Goal is to develop a Bot with minigames and a lot to make the chat more interactive. I count on suggestions and incentives.
 
+- [ ] Translation
 - [ ] Multiple votes
 - [ ] Giveaway
 - [ ] Racing game
 - [ ] Suggestions
 
-
-:coffee: [Me pague um café! :heartpulse:](https://www.paypal.com/donate/?hosted_button_id=522YQG8LS9WBY)
+:coffee: [Pay me a coffee! :heartpulse:](https://www.paypal.com/donate/?hosted_button_id=522YQG8LS9WBY)
