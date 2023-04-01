@@ -35,6 +35,7 @@ Goal is to develop a Bot with minigames and a lot to make the chat more interact
 - [x] % Progress Bar
 - [x] List BG color change
 - [x] Multiple votes
+- [ ] Survival vote
 - [ ] Translation
 - [ ] Giveaway
 - [ ] Racing game
