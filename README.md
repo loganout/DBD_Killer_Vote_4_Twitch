@@ -32,8 +32,10 @@ Each participant is only able to vote once, until the time of development.
 ## Development
 Goal is to develop a Bot with minigames and a lot to make the chat more interactive. Suggestions and Incentives are very welcome!
 
+- [x] % Progress Bar
+- [x] List BG color change
+- [x] Multiple votes
 - [ ] Translation
-- [ ] Multiple votes
 - [ ] Giveaway
 - [ ] Racing game
 - [ ] Suggestions
